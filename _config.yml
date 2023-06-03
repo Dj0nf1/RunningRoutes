@@ -20,7 +20,7 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  Routes: "routes"
+  Routes: "routesPreview"
     - Assistens cemetery & Superkilen: "assistensCemetery_superkilen"
     - Green Trails & Flintholm: "greenTrails_flintholm"
   Other Resources:
