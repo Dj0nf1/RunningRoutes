@@ -20,11 +20,9 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Running Copenhagen: "https://runcph.dk/"
 
 ################
 # --- Logo --- #
