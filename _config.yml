@@ -20,9 +20,11 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  About: "about"
-  Resources:
+  Routes: "routes"
+    - Assistens cemetery & Superkilen: "assistensCemetery_superkilen"
+  Other Resources:
     - Running Copenhagen: "https://runcph.dk/"
+  About: "about"
 
 ################
 # --- Logo --- #
