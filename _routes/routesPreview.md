@@ -1,7 +1,7 @@
 # Here are previous of the routes, along with links.
 
-## [Assistens Cemetery & Superkilen](routes/assistensCemetery_superkilen)
+## [Assistens Cemetery & Superkilen](/_routes/assistensCemetery_superkilen)
 [image]
 
-## [Green trails to Flintholm](greenTrails_flintholm)
+## [Green trails to Flintholm](/_routes/greenTrails_flintholm)
 [image]
