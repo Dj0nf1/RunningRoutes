@@ -21,8 +21,8 @@ author: Jonatan Krause-Jensen
 
 navbar-links:
   Routes: "/_routes/routesPreview"
-    - Assistens cemetery & Superkilen: "assistensCemetery_superkilen"
-    - Green Trails & Flintholm: "greenTrails_flintholm"
+    - Assistens cemetery & Superkilen: "/_routes/assistensCemetery_superkilen"
+    - Green Trails & Flintholm: "/_routes/greenTrails_flintholm"
   Other Resources:
     - Running Copenhagen: "https://runcph.dk/"
     - All Trails: "https://www.alltrails.com/en-gb/denmark/capital-region-of-denmark/copenhagen/trail-running"
