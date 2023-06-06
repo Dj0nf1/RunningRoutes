@@ -22,8 +22,10 @@ author: Jonatan Krause-Jensen
 navbar-links:
   Other Resources:
     - Running Copenhagen: "https://runcph.dk/"
-    - All Trails: "https://www.alltrails.com/en-gb/denmark/capital-region-of-denmark/copenhagen/trail-running"   
-  Routes: "/_routes/_routesPreview.md"
+    - All Trails: "https://www.alltrails.com/en-gb/denmark/capital-region-of-denmark/copenhagen/trail-running"
+  Test: 
+    - DR: "https://www.greenpeace.org/denmark/pressemeddelelse/klimaforandringer/ny-analyse-danske-reklamer-for-flyrejser-og-biler-udleder-mindst-ligesaa-meget-co2-som-bornholm/"
+  Routes: 
     - Assistens cemetery & Superkilen: "/_routes/assistensCemetery_superkilen.md"
     - Green Trails & Flintholm: "/_routes/greenTrails_flintholm.md"
   About: "about"
