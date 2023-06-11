@@ -26,7 +26,7 @@ navbar-links:
   Routes: 
     - Assistens cemetery & Superkilen: "assistensCemetery_superkilen"
     - Green Trails & Flintholm: "{% link _routes/greenTrails_flintholm.md %}"
-  About: "/_posts/about.md"
+  About: "_posts/about.md"
 
 
 ################
