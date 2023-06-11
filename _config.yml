@@ -22,7 +22,7 @@ author: Jonatan Krause-Jensen
 navbar-links:
   Routes yay: 
     - Assistens cemetery & Superkilen: "about"
-    - The R Package [servr]({% post_url  %})
+    - The R Package [servr]({% post_url  /_posts/nothing %})
   About: "about"
   Other Resources yay:
     - Running Copenhagen: "https://runcph.dk/"
