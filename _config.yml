@@ -20,9 +20,9 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  Routes: 
-    - [Assistens cemetery & Superkilen]({% link _posts/2020-02-28-test-markdown.md})
-    - Green Trails & Flintholm: {% link _routes/greenTrails_flintholm.md %}
+  Routes yay: 
+    - Assistens cemetery & Superkilen: "2020-02-28-test-markdown.md"
+    - Green Trails & Flintholm: "about"
   About: "about"
   Other Resources yay:
     - Running Copenhagen: "https://runcph.dk/"
