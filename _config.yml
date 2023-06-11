@@ -26,7 +26,7 @@ navbar-links:
   Routes: 
     - Assistens cemetery & Superkilen: "_routes/assistensCemetery_superkilen.md"
     - Green Trails & Flintholm: "about"
-  About: "about"
+  About: "about.md"
 
 ################
 # --- Logo --- #
