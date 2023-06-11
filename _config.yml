@@ -21,7 +21,7 @@ author: Jonatan Krause-Jensen
 
 navbar-links:
   Routes: 
-    - Assistens cemetery & Superkilen: [some link]({% link _posts/2020-02-28-test-markdown.md})
+    - [Assistens cemetery & Superkilen]({% link _posts/2020-02-28-test-markdown.md})
     - Green Trails & Flintholm: {% link _routes/greenTrails_flintholm.md %}
   About: "about"
   Other Resources:
