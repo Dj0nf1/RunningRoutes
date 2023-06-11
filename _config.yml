@@ -24,7 +24,7 @@ navbar-links:
     - Running Copenhagen: "https://runcph.dk/"
     - All Trails: "https://www.alltrails.com/en-gb/denmark/capital-region-of-denmark/copenhagen/trail-running"
   Routes: 
-    - Assistens cemetery & Superkilen: "assistensCemetery_superkilen.md"
+    - Assistens cemetery & Superkilen: "assistensCemetery_superkilen"
     - Green Trails & Flintholm: "/_routes/greenTrails_flintholm.md"
   About: "about"
 
