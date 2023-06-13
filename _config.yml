@@ -20,7 +20,7 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  Routes: 
+  Running routes: 
     - All: "routes_preview"
     - Assistensens Cemetery & Superkilen: "routes_assistensSuperkilen"
     - Green Trails to Flintholm: "routes_greentrailsFlintholm"
