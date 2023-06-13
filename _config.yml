@@ -20,6 +20,8 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
+  Test:
+    - Test: "test/test"
   Routes: 
     - By foot in Copenhagen: "routes_preview"
     - Assistensens Cemetery & Superkilen: "routes_assistensSuperkilen"
