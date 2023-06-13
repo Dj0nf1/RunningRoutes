@@ -22,10 +22,10 @@ author: Jonatan Krause-Jensen
 navbar-links:
   Amenities:
     - Food:
-      - Supermarkets:
-      - Cheap restaurants:
-      - Communal Eating:
-      - Take-away:
+    - Supermarkets:
+    - Cheap restaurants:
+    - Communal Eating:
+    - Take-away:
     - Water fountains:
   Routes: 
     - By foot in Copenhagen: "routes/preview"
