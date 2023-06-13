@@ -20,8 +20,13 @@ author: Jonatan Krause-Jensen
 ###############################################
 
 navbar-links:
-  Test:
-    - Test: "test/test"
+  Amenities:
+    - Food:
+      - Supermarkets:
+      - Cheap restaurants:
+      - Communal Eating:
+      - Take-away:
+    - Water fountains:
   Routes: 
     - By foot in Copenhagen: "routes/routes_preview"
     - Assistensens Cemetery & Superkilen: "routes_assistensSuperkilen"
