@@ -28,14 +28,10 @@ navbar-links:
       - Take-away:
     - Water fountains:
   Routes: 
-    - By foot in Copenhagen: "routes/routes_preview"
-    - Assistensens Cemetery & Superkilen: "routes_assistensSuperkilen"
-    - Green Trails to Flintholm: "routes_greentrailsFlintholm"
+    - By foot in Copenhagen: "routes/preview"
+    - Assistensens Cemetery & Superkilen: "routes/assistensSuperkilen"
+    - Green Trails to Flintholm: "routes/greentrailsFlintholm"
   About: "about"
-  Other Resources:
-    - Running Copenhagen: "https://runcph.dk/"
-    - All Trails: "https://www.alltrails.com/en-gb/denmark/capital-region-of-denmark/copenhagen/trail-running"
-
 
 ################
 # --- Logo --- #
